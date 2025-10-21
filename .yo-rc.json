@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authManagement": true,
+    "authType": "jwt",
+    "authenticationType": "jwt",
+    "baseName": "ProyectoDePrueba",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "creationTimestamp": 1761038715799,
+    "dataBaseName": "ProyectoDePrueba",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "devServerPort": 9060,
+    "enableTranslation": true,
+    "entities": [],
+    "frontFramework": "react",
+    "internalization": true,
+    "javaPackageName": "proyecto.ayesa.com",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "N2VkNzMwMmMyYjBmOTI0ZWQ0Yjc3ZTAyZTkzNDVjNTIzNTliODMzM2YxOTZiMmVmMzY4ZTBiYTNjNGYyMGE5MjY1YzEwNGY5N2Q3YjBmNGI2ZmY1YTg0NTkyNjYwYjI1MjAwZThkODcyMTA2ZThlYmFlNjM0YzZjZTZkMmE3Y2U=",
+    "languages": [
+      "es"
+    ],
+    "nativeLanguage": "es",
+    "packageName": "proyecto.ayesa.com",
+    "prodDatabaseType": "mysql",
+    "skipUserManagement": false
+  }
+}
